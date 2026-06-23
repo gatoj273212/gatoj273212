@@ -1,108 +1,227 @@
-# Gatoj
+# Hey there! 👋 I'm Vanam Gatoj Kumar
 
-> Building intelligent systems with ML, NLP, and web technologies | B.Tech IT @ IIITA
 
-```
-Machine Learning Engineer | Full-Stack Developer | Open Source Contributor
-```
+
+### AI Builder • IT Student • Problem Solver
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Building+AI+for+Real-World+Problems;Hackathon+Participant;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+
 
 ---
+
+
+
+## 🚀 About Me
+
+
+
+🎓 Information Technology Student
+
+
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
+
+
+
+🔍 Interested in Computer Vision, LLMs, RAG Systems, and AI Applications
+
+
+
+🏆 Hackathon Participant and Open-Source Learner
+
+
+
+💡 I enjoy building projects that solve practical problems using technology
+
+
+
+⚽ Sports Enthusiast | 🎮 Gamer | 💻 Developer
+
+
+
+---
+
+
+
+## 🔥 What I'm Working On
+
+
+
+### 🐄 Smart FMD Detection System
+
+
+
+An AI-powered livestock disease detection system that uses smartphone images to identify Foot-and-Mouth Disease in cattle.
+
+
+
+**Tech:** YOLOv8 • MobileNetV2 • OpenCV • Python
+
+
+
+### 🤖 AI Candidate Ranking Engine
+
+
+
+An intelligent hiring assistant that evaluates resumes and ranks candidates using AI.
+
+
+
+### 📚 RAG Knowledge Assistant
+
+
+
+A document-aware AI assistant capable of answering questions from PDFs and knowledge bases with citations.
+
+
+
+---
+
+
+
+## 🛠 Tech Arsenal
+
+
+
+### Languages
+
+
+
+![Python](https://skillicons.dev/icons?i=python)
+
+![C++](https://skillicons.dev/icons?i=cpp)
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+
+
+### AI / Data Science
+
+
+
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+
+
+### Development Tools
+
+
+
+![Git](https://skillicons.dev/icons?i=git)
+
+![Github](https://skillicons.dev/icons?i=github)
+
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+![Linux](https://skillicons.dev/icons?i=linux)
+
+
+
+---
+
+
+
+## 📊 GitHub Analytics
+
+
+
+<p align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gatoj273212&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatoj273212&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=gatoj273212&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+
+
+---
+
+
 
 ## 🎯 Current Focus
 
-**ET AI Hackathon 2026 - Track 8**
-- Zero-cost RAG pipeline with knowledge graph layer
-- 3 specialized AI agents + FastAPI backend + React frontend
-- Running locally: Ollama + Llama 3.1 8B on RTX 3050
 
-**Open Source**
-- Contributing to ML libraries (scikit-learn, Hugging Face, PyTorch)
-- Learning from production code
 
----
+* Building AI-powered applications
 
-## 🛠️ Skills
+* Learning advanced Generative AI
 
-| Category | Technologies |
-|----------|---------------|
-| **ML/AI** | PyTorch • Hugging Face • Ollama • LangChain • scikit-learn • TensorFlow |
-| **NLP** | Transformers • Embeddings • RAG • Knowledge Graphs • Vector DBs |
-| **Backend** | FastAPI • Django • PostgreSQL • Python |
-| **Frontend** | React • JavaScript • Tailwind CSS |
-| **DevOps** | Docker • Git • Linux • GitHub Actions |
+* Exploring LLMs and Agentic AI
+
+* Participating in Hackathons
+
+* Contributing to Open Source
+
+
 
 ---
 
-## 📦 Recent Work
 
-### Redrob AI Hackathon
-Multi-dimensional candidate ranking system
-- **Tech:** Python, TF-IDF, career analysis algorithms
-- **Scale:** 100k candidates processed on CPU
-- **Result:** Zero external API dependency, efficient ranking
 
-### RAG + Knowledge Graph System
-Intelligent document retrieval with graph-based reasoning
-- **Tech:** Ollama, Llama 3.1, FastAPI, React, Knowledge Graphs
-- **Features:** Multi-agent architecture, local inference, production-ready
+## 🌱 Currently Learning
 
----
 
-## 📚 Learning Path
 
-```
-ML Fundamentals ✓
-  └─ Regression, Classification, Clustering
+* Large Language Models (LLMs)
 
-Deep Learning ✓
-  └─ CNNs, RNNs, Transfer Learning
+* RAG Pipelines
 
-NLP ✓
-  └─ Text Processing, Word Embeddings
-  
-Transformers 🔄 (Current)
-  └─ Attention Mechanisms, BERT, LLMs
-  
-Diffusion Models 🚀 (Next)
-  └─ Generative Models, Image Synthesis
-```
+* LangChain & AI Agents
+
+* MLOps
+
+* Cloud Deployment
+
+
 
 ---
 
-## 🎯 2026 Goals
 
-- [ ] 15+ merged open source contributions
-- [ ] Production-ready RAG application
-- [ ] Deep understanding of Transformer architecture
-- [ ] Contribute to major ML frameworks
-- [ ] Mentor junior developers
 
----
+## 📫 Reach Me
 
-## 💻 Setup for Local Development
 
-**GPU:** RTX 3050  
-**Preferred Stack:** Python + FastAPI + React + Ollama  
-**Editor:** VS Code  
-**OS:** Linux (Ubuntu)
 
----
+📧 **Email:** [gatojkumar@gmail.com](mailto:gatojkumar@gmail.com)
 
-## 🔗 Links
 
-- **LinkedIn:** [Add your profile]
-- **Email:** gatoj.work@gmail.com
-- **Interests:** RAG systems, LLMs, Knowledge Graphs, Web Scale ML
+
+💼 **LinkedIn:** [www.linkedin.com/in/vanam-gatoj-kumar-b415442b1](http://www.linkedin.com/in/vanam-gatoj-kumar-b415442b1)
+
+
+
+🐙 **GitHub:** github.com/gatoj273212
+
+
 
 ---
 
-## 📖 Philosophy
 
-- Code to learn, not to impress
-- Ship > Perfect
-- Documentation = Love letter to future self
-- Open source makes better engineers
 
----
+<div align="center">
 
-**Always learning. Always shipping. 🚀**
+
+
+### ⚡ "Turning ideas into intelligent solutions."
+
+
+
+![](https://komarev.com/ghpvc/?username=gatoj273212\&label=Profile+Views)
+
+
+
+</div>
