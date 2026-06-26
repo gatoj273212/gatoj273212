@@ -2,7 +2,7 @@
 
 
 
-### AI Builder • IT Student • Problem Solver
+### AI Builder • IT Student 
 
 
 
