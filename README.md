@@ -49,15 +49,8 @@ Experiments applying Mixture-of-Agents ensembling to hyperparameter optimization
 
 ---
 
-## Activity
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gatoj273212&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=false)](https://github.com/gatoj273212)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatoj273212&layout=compact&theme=github_dark&hide_border=true)](https://github.com/gatoj273212)
-
-</div>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gatoj273212&theme=github-compact&hide_border=true&area=false)](https://github.com/gatoj273212)
 
 ---
 
